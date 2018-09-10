@@ -1,5 +1,5 @@
 <?php
-$isim = array("MR.HASAN","SİKER ATAR","LAN");
+$isim = array("Merhaba Dünya","Bugün Hava Nasıl","Selam");
 $soyisim = "";
 $ts3query = teamspeak_socket_init();
 while (1) {
